@@ -1,4 +1,4 @@
 BizSim
 ======
 
-Online Business Simulation Program
+Online Business Simulator
