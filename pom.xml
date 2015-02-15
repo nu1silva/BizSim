@@ -7,8 +7,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>simulator</module>
-        <module>data-core</module>
         <module>util</module>
+        <module>data-core</module>
+        <module>simulator</module>
     </modules>
 </project>

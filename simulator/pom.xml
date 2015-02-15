@@ -25,7 +25,13 @@
             <version>3.8.1</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>com.nu1silva.bizsim</groupId>
+            <artifactId>data-core</artifactId>
+            <version>0.0.1</version>
+        </dependency>
     </dependencies>
+
     <build>
         <finalName>simulator</finalName>
     </build>
