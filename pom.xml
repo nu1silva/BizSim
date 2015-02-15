@@ -9,5 +9,6 @@
     <modules>
         <module>simulator</module>
         <module>data-core</module>
+        <module>util</module>
     </modules>
 </project>
