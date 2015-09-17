@@ -1,4 +1,4 @@
-package com.nu1silva.bizsim.datacore.h2.connectors;
+package com.nu1silva.bizsim.datacore.connectors;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

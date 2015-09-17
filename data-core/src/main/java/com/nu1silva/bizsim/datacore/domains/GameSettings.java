@@ -1,4 +1,4 @@
-package com.nu1silva.bizsim.datacore.h2.domains;
+package com.nu1silva.bizsim.datacore.domains;
 
 public class GameSettings {
 
