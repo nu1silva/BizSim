@@ -10,6 +10,7 @@
         <module>util</module>
         <module>data-core</module>
         <module>rule-engine</module>
+        <module>prediction-engine</module>
         <module>simulator</module>
     </modules>
 </project>
